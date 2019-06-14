@@ -1,0 +1,12 @@
+环境：VS2015+Opencv4.1.0
+
+【文件夹说明】
+Left——张正友左摄像头拍摄图
+Right——张正友右摄像头拍摄图
+Self11——自己拍的13张图，其中3和7不能检测到角点
+ResultOfSelf——矫正之后的结果图，对应于Self11的前11张图
+Result——为了做ppt随意保存的图片
+
+【txt文件说明】
+calibdataX.txt——存放输入图片路径（X表示标定时用的图片数量）
+caliberation_resultX.txt——存放输出图片

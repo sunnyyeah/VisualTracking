@@ -1,0 +1,5 @@
+./Self11/pic1.jpg
+./Self11/pic2.jpg
+./Self11/pic4.jpg
+./Self11/pic5.jpg
+./Self11/pic6.jpg

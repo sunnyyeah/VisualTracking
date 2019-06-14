@@ -1,0 +1,19 @@
+﻿生成启动时间为 2019/6/14 2:02:48。
+     1>项目“D:\0_Study\Opencv\Workspace\Zhang_CamCal\Zhang_CamCal\Zhang_CamCal.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\installers\vs2015\Microsoft Visual Studio 14.0\VC\bin\x86_amd64\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"x64\Debug\\" /Fd"x64\Debug\vc140.pdb" /Gd /TP /errorReport:prompt main.cpp
+         main.cpp
+     1>d:\0_study\opencv\workspace\zhang_camcal\zhang_camcal\main.cpp(65): warning C4267: “+=”: 从“size_t”转换到“int”，可能丢失数据
+     1>d:\0_study\opencv\workspace\zhang_camcal\zhang_camcal\main.cpp(82): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+     1>d:\0_study\opencv\workspace\zhang_camcal\zhang_camcal\main.cpp(137): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+     1>d:\0_study\opencv\workspace\zhang_camcal\zhang_camcal\main.cpp(138): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+     1>d:\0_study\opencv\workspace\zhang_camcal\zhang_camcal\main.cpp(171): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+     1>d:\0_study\opencv\workspace\zhang_camcal\zhang_camcal\main.cpp(172): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+       Link:
+         D:\installers\vs2015\Microsoft Visual Studio 14.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"D:\0_Study\Opencv\Workspace\Zhang_CamCal\x64\Debug\Zhang_CamCal.exe" /INCREMENTAL /NOLOGO opencv_world410d.lib opencv_world410.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"D:\0_Study\Opencv\Workspace\Zhang_CamCal\x64\Debug\Zhang_CamCal.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\0_Study\Opencv\Workspace\Zhang_CamCal\x64\Debug\Zhang_CamCal.lib" /MACHINE:X64 x64\Debug\main.obj
+         Zhang_CamCal.vcxproj -> D:\0_Study\Opencv\Workspace\Zhang_CamCal\x64\Debug\Zhang_CamCal.exe
+     1>已完成生成项目“D:\0_Study\Opencv\Workspace\Zhang_CamCal\Zhang_CamCal\Zhang_CamCal.vcxproj”(Build 个目标)的操作。
+
+已成功生成。
+
+已用时间 00:00:01.44

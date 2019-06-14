@@ -1,0 +1,9 @@
+./Self11/pic1.jpg
+./Self11/pic2.jpg
+./Self11/pic4.jpg
+./Self11/pic5.jpg
+./Self11/pic6.jpg
+./Self11/pic8.jpg
+./Self11/pic9.jpg
+./Self11/pic10.jpg
+./Self11/pic11.jpg
